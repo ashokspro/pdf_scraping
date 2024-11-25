@@ -32,7 +32,7 @@ def display_output(subject_code, names):
 
 
 # Example usage
-pdf_file = "C:/Users/ashok/Downloads/114_05.pdf"
+pdf_file = "C:/Users/ashok/Downloads/students_name_list.pdf"
 subject_count = int(input("ENTER TOTAL SUBJECT COUNT: "))
 
 for i in range(subject_count):
